@@ -1,0 +1,5 @@
+package-as: Details_TWW_Dark
+
+ignore:
+- Screenshots
+- "*.png"

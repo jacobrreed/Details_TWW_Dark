@@ -1,0 +1,26 @@
+## Interface: 110000
+## Interface-Cata: 40400
+## Interface-Wrath: 30403
+## Interface-Classic: 11503
+## Title: Details! Skin TWW (Dark) |cff8080ff@project-version@|r
+## Notes: Adds the 'The War Within' DarkMode Skin to Details.|n|cffbbbbbbBy Jacob Reed|r
+## Author: Jacob Reed
+## X-Website: https://github.com/jacobrreed/Details_TWW_Dark
+## Version: @project-version@
+## X-Date: @project-date-integer@
+## Dependencies: Details
+## OptionalDeps: Ace3
+
+# Libs
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\LibSharedMedia-3.0\lib.xml
+
+Core.lua
+Profile_Default.lua
